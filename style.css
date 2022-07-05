@@ -1,9 +1,15 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
 }
-h1{
+
+h1 {
     font-size: 50px;
 }
-.orange_color{
+
+.orange_color {
     color: orange;
+}
+
+section {
+    display: flex;
 }
