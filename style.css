@@ -44,3 +44,27 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.yvideo {
+    font-size: 50px;
+    color: orange;
+    text-align: center;
+    font-weight: 700;
+    width: 50%;
+}
+
+.copyright {
+    color: white;
+    text-align: center;
+    background-color: orange;
+    padding: 15px;
+}
+
+.video {
+    display: flex;
+}
+
+.mail {
+    text-decoration: none;
+    color: white;
+}
